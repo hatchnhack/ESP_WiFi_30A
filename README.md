@@ -21,14 +21,17 @@
 <p align="middle">
 <img src="https://github.com/hatchnhack/ESP_WiFi_30A/blob/master/images/AutoConnect.jpg" width="250" height="50%">
 </p>
+
 ### Go to WiFi settings and connect to "HnHSwitch30" SSID with password "password".
 <p align="middle">
 <img src="https://github.com/hatchnhack/ESP_WiFi_30A/blob/master/images/WiFiSwitchInterfacing_2.jpg" width="250" height="50%">
 </p>
+
 ### Once connected, you will be redirected to configuration page. If not, click on the SSID to configure it.
 <p align="middle">
 <img src="https://github.com/hatchnhack/ESP_WiFi_30A/blob/master/images/WiFiSwitchInterfacing_3.jpg" width="250" height="50%">
 </p>
+
 ### On the configuration page, click on Configure WiFi button.
 
 <p float="left" align="middle">
@@ -40,10 +43,12 @@
 <p align="middle">
 <img src="https://github.com/hatchnhack/ESP_WiFi_30A/blob/master/images/WiFiSwitchInterfacing_9.jpg" width="250" height="50%">
 </p>
+
 ### Once the switch restarts, if you are on laptop/iPhone go to browser and type "hnhswitch30.local" to open the control page of the switch.
 <p align="middle">
 <img src="https://github.com/hatchnhack/ESP_WiFi_30A/blob/master/images/WiFiSwitchInterfacing_6.jpg" width="250" height="50%">
 </p>
+
 ### If using android device, download any networking tools like fing to find the local IPv4 of the switch. After that type the IP address in the browser to control the switch.
 <p float="left" align="middle">
   <img src="https://github.com/hatchnhack/ESP_WiFi_30A/blob/master/images/WiFiSwitchInterfacing_7.jpg" width="250" height="50%">
