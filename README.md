@@ -54,3 +54,5 @@
   <img src="https://github.com/hatchnhack/ESP_WiFi_30A/blob/master/images/WiFiSwitchInterfacing_7.jpg" width="250" height="50%">
   <img src="https://github.com/hatchnhack/ESP_WiFi_30A/blob/master/images/WiFiSwitchInterfacing_8.jpg" width="250" height="50%">
 </p>
+
+### The switch can be purchased at [HnHCart](https://www.hnhcart.com/collections/development-boards/products/wifi-enabled-switch-for-heavy-loads)
