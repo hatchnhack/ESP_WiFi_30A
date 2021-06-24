@@ -4,7 +4,7 @@
 - On-board ESP8266-12E with all pins available
 - Fully programmable and can be used with any custom application
 - On-board HiLink 5V,3W AC to DC SMPS
-- 230VAC,30A/30VDC,30A relay for heavy loads and appliances
+- 230VAC,30A/30VDC,30A relay for heavy loads and appliances (connected to pin 5)
 
 ## The Switch
 ![HnHCart ESP WiFi Switch 30A for Heavy Loads](https://github.com/hatchnhack/ESP_WiFi_30A/blob/master/images/HnH_ESP_WiFi_Switch_30A.jpg)
